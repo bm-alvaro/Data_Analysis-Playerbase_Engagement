@@ -1,3 +1,5 @@
+# This script and analysis is not finished and is not working properly. Further work is needed. 
+
 library(pdftools)
 library(stringr)
 library(dplyr)
